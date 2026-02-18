@@ -13,7 +13,7 @@
       "description": "Fabric Running Minecraft 1.20.1 (Fabric v0.18.4)",
       "icon": "http://localhost:8080/servers/Fabric-1.20.1/Icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "planetearth.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "JW Launcher",
