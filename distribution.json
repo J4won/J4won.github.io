@@ -11,7 +11,7 @@
       "id": "Fabric-1.20.1",
       "name": "Fabric (Minecraft 1.20.1)",
       "description": "Fabric Running Minecraft 1.20.1 (Fabric v0.18.4)",
-      "icon": "https://j4won.github.io/servers/Fabric-1.20.1/Icon.png",
+      "icon": "http://localhost:8080/servers/Fabric-1.20.1/Icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1944518,
             "MD5": "56c00fa22e0452e8567be1feae73c3b9",
-            "url": "https://j4won.github.io/repo/lib/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
+            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "53b39b05282917bb1085db564a8500fa",
-                "url": "https://j4won.github.io/repo/versions/1.20.1-fabric-0.18.4/1.20.1-fabric-0.18.4.json"
+                "url": "http://localhost:8080/repo/versions/1.20.1-fabric-0.18.4/1.20.1-fabric-0.18.4.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "https://j4won.github.io/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "https://j4won.github.io/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "https://j4won.github.io/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "https://j4won.github.io/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "https://j4won.github.io/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1505269,
                 "MD5": "d27dcb910788a0bd4bea72942a714093",
-                "url": "https://j4won.github.io/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
+                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://j4won.github.io/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1064362,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
             "MD5": "723370be246a876144ae424cbbfd60f4"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1782676,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/BetterF3-7.0.2-Fabric-1.20.1.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/BetterF3-7.0.2-Fabric-1.20.1.jar",
             "MD5": "acda45b22c255f78f3242056b1221c8e"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80747,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/chat_heads-0.14.2-fabric-1.20.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/chat_heads-0.14.2-fabric-1.20.jar",
             "MD5": "571c0a5993d1693590e635ed2d4fba8f"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 381708,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/cicada-lib-0.14.3+1.20.1.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/cicada-lib-0.14.3+1.20.1.jar",
             "MD5": "bba3026eb25293c9714c7512c06f2d8c"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1172214,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
             "MD5": "45d8bada7797af61d1f5543313b1f9f0"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2392617,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/coroutil-fabric-1.20.1-1.3.7.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/coroutil-fabric-1.20.1-1.3.7.jar",
             "MD5": "44365b7447c9b4c3aeadcadf454494aa"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1561882,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/entityculling-fabric-1.9.5-mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/entityculling-fabric-1.9.5-mc1.20.1.jar",
             "MD5": "27c6f4d0ae823a847a5f737b2c67f587"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107977,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/fabric-api-0.92.7+1.20.1.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/fabric-api-0.92.7+1.20.1.jar",
             "MD5": "789c66d62c1ef077c457a10191d7df23"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7618852,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
             "MD5": "964103287b72e606de845420d1a8cc57"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 396628,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
             "MD5": "17d4d761778f33c006551cf9ecc78798"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1071661,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/freecam-fabric-1.2.1+1.20.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/freecam-fabric-1.2.1+1.20.jar",
             "MD5": "b0e119aabc13085ca92d5f09bc46e0a8"
           },
           "required": {
@@ -234,7 +234,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 30635,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/Highlighter-1.20.1-fabric-1.1.9.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/Highlighter-1.20.1-fabric-1.1.9.jar",
             "MD5": "158dd6513d0b6fbfdcd4ba407f7d272d"
           }
         },
@@ -244,7 +244,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 119018,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/Iceberg-1.20.1-fabric-1.1.25.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/Iceberg-1.20.1-fabric-1.1.25.jar",
             "MD5": "063fa399d8886abc0b1b612e968b8e0b"
           }
         },
@@ -254,7 +254,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 237573,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/inventoryhud.fabric.1.20.1-3.4.26.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/inventoryhud.fabric.1.20.1-3.4.26.jar",
             "MD5": "d5e3049c04f617683a5e0013902e2d8b"
           },
           "required": {
@@ -267,7 +267,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1454646,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/InventoryProfilesNext-fabric-1.20-1.10.19.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/InventoryProfilesNext-fabric-1.20-1.10.19.jar",
             "MD5": "9ed6f62ed9b7c6cfe761dd2a64a84c2c"
           },
           "required": {
@@ -280,7 +280,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
@@ -290,7 +290,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 22091,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/ItemBorders-1.20.1-fabric-1.2.2.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/ItemBorders-1.20.1-fabric-1.2.2.jar",
             "MD5": "1767e390afcf19e8a64e6b26b3520e8b"
           }
         },
@@ -300,7 +300,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1422496,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.129.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.129.jar",
             "MD5": "671230c2f0a89f79a22a99b4c1d1b0e1"
           }
         },
@@ -310,7 +310,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 565161,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.20.1.jar",
             "MD5": "d70f17b87492c7eae13cd14762226db4"
           }
         },
@@ -320,7 +320,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 702814,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/libIPN-fabric-1.20-4.0.2.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/libIPN-fabric-1.20-4.0.2.jar",
             "MD5": "8e2cc58f5a9149549f544d4a27224646"
           }
         },
@@ -330,7 +330,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 923876,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/litematica-fabric-1.20.1-0.15.4.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/litematica-fabric-1.20.1-0.15.4.jar",
             "MD5": "4f716692227e2e5290aa862984104316"
           },
           "required": {
@@ -343,7 +343,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 691483,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.4.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.4.jar",
             "MD5": "01fba3b3678fadc34d4d2878031762cd"
           }
         },
@@ -353,7 +353,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 545403,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/malilib-fabric-1.20.1-0.16.3.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/malilib-fabric-1.20.1-0.16.3.jar",
             "MD5": "007a02b4cbca762018d2a56237d36631"
           }
         },
@@ -363,7 +363,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 721366,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
           }
         },
@@ -373,7 +373,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77943,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/MouseTweaks-fabric-mc1.20-2.26.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/MouseTweaks-fabric-mc1.20-2.26.jar",
             "MD5": "3138c776d370c90603938eb54d17469a"
           }
         },
@@ -383,7 +383,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4836,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/NoRecipeBook-mc1.20.1-fabric-1.0.1.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/NoRecipeBook-mc1.20.1-fabric-1.0.1.jar",
             "MD5": "e730c1afec5a0d13dcef9d82434b4863"
           },
           "required": {
@@ -396,7 +396,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 57257,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/Prism-1.20.1-fabric-1.0.5.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/Prism-1.20.1-fabric-1.0.5.jar",
             "MD5": "2eed6d81c1b72c75646d33b1b5d9dcfe"
           }
         },
@@ -406,7 +406,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 262295,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/show-me-your-skin-1.9.0+1.20.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/show-me-your-skin-1.9.0+1.20.jar",
             "MD5": "e0d96af6540bfa291165a2a2c49f2286"
           },
           "required": {
@@ -419,7 +419,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1176739,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/simple-hud-utilities-2.6.0.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/simple-hud-utilities-2.6.0.jar",
             "MD5": "c16bc6e7544707c841b7a021a03cceb5"
           },
           "required": {
@@ -432,7 +432,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
@@ -442,7 +442,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14644552,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/viafabricplus-2.8.7.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/viafabricplus-2.8.7.jar",
             "MD5": "3c8d3dcf62e16fd5f843b112cf5eb079"
           }
         },
@@ -452,7 +452,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5251599,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/voicechat-fabric-1.20.1-2.6.11.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/voicechat-fabric-1.20.1-2.6.11.jar",
             "MD5": "9edf5ed876ba1f8bf4464d1b35ca48ff"
           },
           "required": {
@@ -465,7 +465,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 789018,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/required/watut-fabric-1.20.1-1.2.3.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/required/watut-fabric-1.20.1-1.2.3.jar",
             "MD5": "3c3bafc1f68e028ebc6224cc68ecb99e"
           }
         },
@@ -475,7 +475,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2153600,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/xaerominimap-fabric-1.20.1-25.3.5.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/xaerominimap-fabric-1.20.1-25.3.5.jar",
             "MD5": "20de61d10f76596ab60a67eb71c4985d"
           },
           "required": {
@@ -488,7 +488,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1402552,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/fabricmods/optionalon/xaeroworldmap-fabric-1.20.1-1.40.6.jar",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/fabricmods/optionalon/xaeroworldmap-fabric-1.20.1-1.40.6.jar",
             "MD5": "9763d6356420633543df0e7de4910dd7"
           },
           "required": {
@@ -501,7 +501,7 @@
           "type": "File",
           "artifact": {
             "size": 1327,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/appleskin.json5",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/appleskin.json5",
             "MD5": "406b4584562fb60304a8adc824de0000",
             "path": "config/appleskin.json5"
           }
@@ -512,7 +512,7 @@
           "type": "File",
           "artifact": {
             "size": 273,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/cardinal-components-api.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/cardinal-components-api.properties",
             "MD5": "7ca22fadddc61aebd6de92cf16952f74",
             "path": "config/cardinal-components-api.properties"
           }
@@ -523,7 +523,7 @@
           "type": "File",
           "artifact": {
             "size": 207,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/chat_heads.json5",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/chat_heads.json5",
             "MD5": "95907776cd681dd4b584741aa8cccdd2",
             "path": "config/chat_heads.json5"
           }
@@ -534,7 +534,7 @@
           "type": "File",
           "artifact": {
             "size": 133,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/CoroUtil/General.toml",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/CoroUtil/General.toml",
             "MD5": "807d9cd61e8d8e97058eb49ac7fcfdba",
             "path": "config/CoroUtil/General.toml"
           }
@@ -545,7 +545,7 @@
           "type": "File",
           "artifact": {
             "size": 1897,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/entityculling.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/entityculling.json",
             "MD5": "422b1718498a957ece2de2453634102a",
             "path": "config/entityculling.json"
           }
@@ -556,7 +556,7 @@
           "type": "File",
           "artifact": {
             "size": 290,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/fabric/indigo-renderer.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/fabric/indigo-renderer.properties",
             "MD5": "df7de8efa640ff040f566c5a53504c70",
             "path": "config/fabric/indigo-renderer.properties"
           }
@@ -567,7 +567,7 @@
           "type": "File",
           "artifact": {
             "size": 1582,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/forgeconfigapiport.toml",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/forgeconfigapiport.toml",
             "MD5": "d7a4bb7824a6e62553e5c6df78441291",
             "path": "config/forgeconfigapiport.toml"
           }
@@ -578,7 +578,7 @@
           "type": "File",
           "artifact": {
             "size": 549,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/freecam.json5",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/freecam.json5",
             "MD5": "61c17b7c1b860c4460c74c936a338eaf",
             "path": "config/freecam.json5"
           }
@@ -589,7 +589,7 @@
           "type": "File",
           "artifact": {
             "size": 720,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/highlighter-common.toml",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/highlighter-common.toml",
             "MD5": "ac122f8b7d524dadfa4054a742c090e2",
             "path": "config/highlighter-common.toml"
           }
@@ -600,7 +600,7 @@
           "type": "File",
           "artifact": {
             "size": 1691,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/inventoryhud.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/inventoryhud.json",
             "MD5": "d6fbf4e39710675b7d430d331a3bab2f",
             "path": "config/inventoryhud.json"
           }
@@ -611,7 +611,7 @@
           "type": "File",
           "artifact": {
             "size": 1450,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
             "MD5": "1a018549a3d0f945870f75056ce7e5eb",
             "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
           }
@@ -622,7 +622,7 @@
           "type": "File",
           "artifact": {
             "size": 134,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
             "MD5": "ba317214b700c4a850bfd9a6fc42d147",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
           }
@@ -633,7 +633,7 @@
           "type": "File",
           "artifact": {
             "size": 1177,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/planetearth.kr/prev-villager-trading-config.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/planetearth.kr/prev-villager-trading-config.json",
             "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/planetearth.kr/prev-villager-trading-config.json"
           }
@@ -644,7 +644,7 @@
           "type": "File",
           "artifact": {
             "size": 1177,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/planetearth.kr/villager-trading-config.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/planetearth.kr/villager-trading-config.json",
             "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/planetearth.kr/villager-trading-config.json"
           }
@@ -655,7 +655,7 @@
           "type": "File",
           "artifact": {
             "size": 1177,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
             "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/villager-trading-config.json"
           }
@@ -666,7 +666,7 @@
           "type": "File",
           "artifact": {
             "size": 289,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/iris.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/iris.properties",
             "MD5": "f1f2edc6fba38d2354b725d88267fac2",
             "path": "config/iris.properties"
           }
@@ -677,7 +677,7 @@
           "type": "File",
           "artifact": {
             "size": 1231,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/itemborders-common.toml",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/itemborders-common.toml",
             "MD5": "63fb57a3d356ce99a3e368368df781e9",
             "path": "config/itemborders-common.toml"
           }
@@ -688,7 +688,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/jei/blacklist.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/jei/blacklist.cfg",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/jei/blacklist.cfg"
           }
@@ -699,7 +699,7 @@
           "type": "File",
           "artifact": {
             "size": 11,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
             "MD5": "fca70034037b56e1abc6291fc0ff5ddd",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
@@ -710,7 +710,7 @@
           "type": "File",
           "artifact": {
             "size": 86,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
             "MD5": "a297d9637a74577adaed06e68221a8a0",
             "path": "config/jei/ingredient-list-type-sort-order.ini"
           }
@@ -721,7 +721,7 @@
           "type": "File",
           "artifact": {
             "size": 8658,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/jei/jei-client.ini",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/jei/jei-client.ini",
             "MD5": "d84fcde71cc89202a32f5b10f2c3c89f",
             "path": "config/jei/jei-client.ini"
           }
@@ -732,7 +732,7 @@
           "type": "File",
           "artifact": {
             "size": 1338,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/jei/jei-colors.ini",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/jei/jei-colors.ini",
             "MD5": "54322062602d3aabb6b11455e07de765",
             "path": "config/jei/jei-colors.ini"
           }
@@ -743,7 +743,7 @@
           "type": "File",
           "artifact": {
             "size": 918,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/jei/jei-debug.ini",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/jei/jei-debug.ini",
             "MD5": "4dd10e2f07441d4820fe65e804aac24c",
             "path": "config/jei/jei-debug.ini"
           }
@@ -754,7 +754,7 @@
           "type": "File",
           "artifact": {
             "size": 463,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/jei/jei-mod-id-format.ini",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/jei/jei-mod-id-format.ini",
             "MD5": "457dca8722dc66e695196c24fba7875f",
             "path": "config/jei/jei-mod-id-format.ini"
           }
@@ -765,7 +765,7 @@
           "type": "File",
           "artifact": {
             "size": 234,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/jei/recipe-category-sort-order.ini",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/jei/recipe-category-sort-order.ini",
             "MD5": "e23ab9b8006daae0e8be5077e7a173b5",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
@@ -776,7 +776,7 @@
           "type": "File",
           "artifact": {
             "size": 1513,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/koreanpatch.json5",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/koreanpatch.json5",
             "MD5": "db57d63145cae2aa9d67e8b160151008",
             "path": "config/koreanpatch.json5"
           }
@@ -787,7 +787,7 @@
           "type": "File",
           "artifact": {
             "size": 95,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr.json",
             "MD5": "909c5fc6e45a9192364c7e32ee776ae1",
             "path": "config/litematica/litematica_planetearth.kr.json"
           }
@@ -798,7 +798,7 @@
           "type": "File",
           "artifact": {
             "size": 734,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr_dim_minecraft_overworld.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr_dim_minecraft_overworld.json",
             "MD5": "c22a3660d8eb93921e0fb5e4563737c9",
             "path": "config/litematica/litematica_planetearth.kr_dim_minecraft_overworld.json"
           }
@@ -809,7 +809,7 @@
           "type": "File",
           "artifact": {
             "size": 734,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr_dim_minecraft_pvp.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr_dim_minecraft_pvp.json",
             "MD5": "c22a3660d8eb93921e0fb5e4563737c9",
             "path": "config/litematica/litematica_planetearth.kr_dim_minecraft_pvp.json"
           }
@@ -820,7 +820,7 @@
           "type": "File",
           "artifact": {
             "size": 729,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr_dim_minecraft_spawn.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr_dim_minecraft_spawn.json",
             "MD5": "74f84a0e0cbb495ed7b44bcfc52796f3",
             "path": "config/litematica/litematica_planetearth.kr_dim_minecraft_spawn.json"
           }
@@ -831,7 +831,7 @@
           "type": "File",
           "artifact": {
             "size": 729,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr_dim_minecraft_worldpvp.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/litematica/litematica_planetearth.kr_dim_minecraft_worldpvp.json",
             "MD5": "74f84a0e0cbb495ed7b44bcfc52796f3",
             "path": "config/litematica/litematica_planetearth.kr_dim_minecraft_worldpvp.json"
           }
@@ -842,7 +842,7 @@
           "type": "File",
           "artifact": {
             "size": 9181,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/litematica.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/litematica.json",
             "MD5": "a717c521a75ef8062d74d238337f8ee3",
             "path": "config/litematica.json"
           }
@@ -853,7 +853,7 @@
           "type": "File",
           "artifact": {
             "size": 430,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/lithium.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/lithium.properties",
             "MD5": "422e0797eef9c35fe7d8ecea0ac3f567",
             "path": "config/lithium.properties"
           }
@@ -864,7 +864,7 @@
           "type": "File",
           "artifact": {
             "size": 149,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/malilib.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/malilib.json",
             "MD5": "d8d1ab2efbaf17749531cb75dc7ad330",
             "path": "config/malilib.json"
           }
@@ -875,7 +875,7 @@
           "type": "File",
           "artifact": {
             "size": 814,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/modmenu.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/modmenu.json",
             "MD5": "e8f3869015601ad3afae3fa4412c307c",
             "path": "config/modmenu.json"
           }
@@ -886,7 +886,7 @@
           "type": "File",
           "artifact": {
             "size": 135,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/MouseTweaks.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/MouseTweaks.cfg",
             "MD5": "ff577ca09e989c07c056c7cdff465be3",
             "path": "config/MouseTweaks.cfg"
           }
@@ -897,7 +897,7 @@
           "type": "File",
           "artifact": {
             "size": 2847,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/neat-client.json5",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/neat-client.json5",
             "MD5": "8151944b4ff7943e3f7522911acffdff",
             "path": "config/neat-client.json5"
           }
@@ -908,7 +908,7 @@
           "type": "File",
           "artifact": {
             "size": 67,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/showmeyourskin-server.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/showmeyourskin-server.json",
             "MD5": "2cc6dd05ba572472074e30d33bc01dba",
             "path": "config/showmeyourskin-server.json"
           }
@@ -919,7 +919,7 @@
           "type": "File",
           "artifact": {
             "size": 1345,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/showmeyourskin.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/showmeyourskin.json",
             "MD5": "81deb5b3721507ebefdb955579a85ff8",
             "path": "config/showmeyourskin.json"
           }
@@ -930,7 +930,7 @@
           "type": "File",
           "artifact": {
             "size": 443,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/simple_utilities.toml",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/simple_utilities.toml",
             "MD5": "e4c5062fd007bef10c4e89b5ce9687ab",
             "path": "config/simple_utilities.toml"
           }
@@ -941,7 +941,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/sodium-fingerprint.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/sodium-fingerprint.json",
             "MD5": "cae62eb93a05275b8c53e29ecae36d28",
             "path": "config/sodium-fingerprint.json"
           }
@@ -952,7 +952,7 @@
           "type": "File",
           "artifact": {
             "size": 265,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/sodium-mixins.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/sodium-mixins.properties",
             "MD5": "456d99888369486f42d6ea7f70294170",
             "path": "config/sodium-mixins.properties"
           }
@@ -963,7 +963,7 @@
           "type": "File",
           "artifact": {
             "size": 631,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/sodium-options.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/sodium-options.json",
             "MD5": "a1825f69c29b5db6b13d4e1c9eba4161",
             "path": "config/sodium-options.json"
           }
@@ -974,7 +974,7 @@
           "type": "File",
           "artifact": {
             "size": 62,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/transition.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/transition.json",
             "MD5": "939cbb1d75f242d47e2aa1a9d536a3e7",
             "path": "config/transition.json"
           }
@@ -985,7 +985,7 @@
           "type": "File",
           "artifact": {
             "size": 44,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/trender.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/trender.json",
             "MD5": "57d19d218711f08f8d7ce8c69f21d59f",
             "path": "config/trender.json"
           }
@@ -996,7 +996,7 @@
           "type": "File",
           "artifact": {
             "size": 46,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/voicechat/category-volumes.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/voicechat/category-volumes.properties",
             "MD5": "47731f53ffef4a8a57c766a8091a5651",
             "path": "config/voicechat/category-volumes.properties"
           }
@@ -1007,7 +1007,7 @@
           "type": "File",
           "artifact": {
             "size": 44,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/voicechat/player-volumes.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/voicechat/player-volumes.properties",
             "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
             "path": "config/voicechat/player-volumes.properties"
           }
@@ -1018,7 +1018,7 @@
           "type": "File",
           "artifact": {
             "size": 1182,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/voicechat/translations.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/voicechat/translations.properties",
             "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
             "path": "config/voicechat/translations.properties"
           }
@@ -1029,7 +1029,7 @@
           "type": "File",
           "artifact": {
             "size": 4899,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/voicechat/voicechat-client.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/voicechat/voicechat-client.properties",
             "MD5": "a865de19fb2b35da3d8ba27653f577c9",
             "path": "config/voicechat/voicechat-client.properties"
           }
@@ -1040,7 +1040,7 @@
           "type": "File",
           "artifact": {
             "size": 2442,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/voicechat/voicechat-server.properties",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/voicechat/voicechat-server.properties",
             "MD5": "5095de392ceaadcc07124e33d5fa30e2",
             "path": "config/voicechat/voicechat-server.properties"
           }
@@ -1051,7 +1051,7 @@
           "type": "File",
           "artifact": {
             "size": 3196,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/watut-client.toml",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/watut-client.toml",
             "MD5": "20fdbc0e7cc33b6b33a2b5b8a4e8a876",
             "path": "config/watut-client.toml"
           }
@@ -1062,7 +1062,7 @@
           "type": "File",
           "artifact": {
             "size": 144,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/watut-common.toml",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/watut-common.toml",
             "MD5": "292397cff0ad268486e631c8022b048c",
             "path": "config/watut-common.toml"
           }
@@ -1073,7 +1073,7 @@
           "type": "File",
           "artifact": {
             "size": 3367,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/watut-item-arm-adjustments.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/watut-item-arm-adjustments.json",
             "MD5": "25925ecf5d13afcb55b2d4fcff81361c",
             "path": "config/watut-item-arm-adjustments.json"
           }
@@ -1084,7 +1084,7 @@
           "type": "File",
           "artifact": {
             "size": 2880,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/watut-server.toml",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/watut-server.toml",
             "MD5": "fbed27698cf08450df11f943a78832e3",
             "path": "config/watut-server.toml"
           }
@@ -1095,7 +1095,7 @@
           "type": "File",
           "artifact": {
             "size": 26,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/lib/client.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/lib/client.cfg",
             "MD5": "dd7d24d2b991f7648671c16d0a74c265",
             "path": "config/xaero/lib/client.cfg"
           }
@@ -1106,7 +1106,7 @@
           "type": "File",
           "artifact": {
             "size": 236,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/lib/common.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/lib/common.cfg",
             "MD5": "e085e122e32132e1fa73ac927f7ece81",
             "path": "config/xaero/lib/common.cfg"
           }
@@ -1117,7 +1117,7 @@
           "type": "File",
           "artifact": {
             "size": 121,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/lib/profiles/default.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/lib/profiles/default.cfg",
             "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
             "path": "config/xaero/lib/profiles/default.cfg"
           }
@@ -1128,7 +1128,7 @@
           "type": "File",
           "artifact": {
             "size": 75,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/lib/server_profiles/default.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/lib/server_profiles/default.cfg",
             "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/lib/server_profiles/default.cfg"
           }
@@ -1139,7 +1139,7 @@
           "type": "File",
           "artifact": {
             "size": 235,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/minimap/client.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/minimap/client.cfg",
             "MD5": "7a8d5e6353c7471f6002052f1fbd71bb",
             "path": "config/xaero/minimap/client.cfg"
           }
@@ -1150,7 +1150,7 @@
           "type": "File",
           "artifact": {
             "size": 147,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/minimap/common.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/minimap/common.cfg",
             "MD5": "48d56532be92f58e976a2d1753abdd35",
             "path": "config/xaero/minimap/common.cfg"
           }
@@ -1161,7 +1161,7 @@
           "type": "File",
           "artifact": {
             "size": 5531,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/minimap/default_radar_categories_client.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/minimap/default_radar_categories_client.json",
             "MD5": "6aa0c1720795d59a3cd21e3becba9685",
             "path": "config/xaero/minimap/default_radar_categories_client.json"
           }
@@ -1172,7 +1172,7 @@
           "type": "File",
           "artifact": {
             "size": 4597,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/minimap/default_radar_categories_server.json",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/minimap/default_radar_categories_server.json",
             "MD5": "7ffe568a308241b93166af2d45ce79c7",
             "path": "config/xaero/minimap/default_radar_categories_server.json"
           }
@@ -1183,7 +1183,7 @@
           "type": "File",
           "artifact": {
             "size": 3657,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/minimap/profiles/default.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/minimap/profiles/default.cfg",
             "MD5": "5d54345c6a4972812932f5ed0b42946a",
             "path": "config/xaero/minimap/profiles/default.cfg"
           }
@@ -1194,7 +1194,7 @@
           "type": "File",
           "artifact": {
             "size": 684,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
             "MD5": "64d98932063f0be723920fbdb1de1268",
             "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
           }
@@ -1205,7 +1205,7 @@
           "type": "File",
           "artifact": {
             "size": 75,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/minimap/server_profiles/default.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/minimap/server_profiles/default.cfg",
             "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/minimap/server_profiles/default.cfg"
           }
@@ -1216,7 +1216,7 @@
           "type": "File",
           "artifact": {
             "size": 466,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/world-map/client.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/world-map/client.cfg",
             "MD5": "b5d4c155d1c2212ad7f51b89ca67fd80",
             "path": "config/xaero/world-map/client.cfg"
           }
@@ -1227,7 +1227,7 @@
           "type": "File",
           "artifact": {
             "size": 141,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/world-map/common.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/world-map/common.cfg",
             "MD5": "b5ddb993fe4200e02fec18254463b2c2",
             "path": "config/xaero/world-map/common.cfg"
           }
@@ -1238,7 +1238,7 @@
           "type": "File",
           "artifact": {
             "size": 1379,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/world-map/profiles/default.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/world-map/profiles/default.cfg",
             "MD5": "f4151e7df2284ff2ab24bef0ca2365c2",
             "path": "config/xaero/world-map/profiles/default.cfg"
           }
@@ -1249,7 +1249,7 @@
           "type": "File",
           "artifact": {
             "size": 75,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaero/world-map/server_profiles/default.cfg",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaero/world-map/server_profiles/default.cfg",
             "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/world-map/server_profiles/default.cfg"
           }
@@ -1260,7 +1260,7 @@
           "type": "File",
           "artifact": {
             "size": 126,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaerohud.txt",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaerohud.txt",
             "MD5": "c33d85d1470c81ccd9077b819b3ec897",
             "path": "config/xaerohud.txt"
           }
@@ -1271,7 +1271,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/config/xaeropatreon.txt",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/config/xaeropatreon.txt",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/xaeropatreon.txt"
           }
@@ -1282,7 +1282,7 @@
           "type": "File",
           "artifact": {
             "size": 13107897,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/resourcepacks/AVPBR%20Retextured%20R5.zip",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/resourcepacks/AVPBR%20Retextured%20R5.zip",
             "MD5": "9a060847450e29eabb6f8e363ae77f28",
             "path": "resourcepacks/AVPBR Retextured R5.zip"
           }
@@ -1293,7 +1293,7 @@
           "type": "File",
           "artifact": {
             "size": 586413,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/resourcepacks/CookieRun.zip",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/resourcepacks/CookieRun.zip",
             "MD5": "34b5c03740bc65111021929c73346b48",
             "path": "resourcepacks/CookieRun.zip"
           }
@@ -1304,7 +1304,7 @@
           "type": "File",
           "artifact": {
             "size": 9608212,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/resourcepacks/Faithful%2064x%20-%20Beta%209.zip",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/resourcepacks/Faithful%2064x%20-%20Beta%209.zip",
             "MD5": "7f80ce636292401377da62ebf2b59ac4",
             "path": "resourcepacks/Faithful 64x - Beta 9.zip"
           }
@@ -1315,7 +1315,7 @@
           "type": "File",
           "artifact": {
             "size": 70255,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/resourcepacks/Kim_Yushin_pack.zip",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/resourcepacks/Kim_Yushin_pack.zip",
             "MD5": "e023cb216fd28969d32f976d20e77acc",
             "path": "resourcepacks/Kim_Yushin_pack.zip"
           }
@@ -1326,20 +1326,9 @@
           "type": "File",
           "artifact": {
             "size": 471519,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/resourcepacks/Pinku's+Pink+GUI+Pack+1.20+.zip",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/resourcepacks/Pinku's+Pink+GUI+Pack+1.20+.zip",
             "MD5": "65029d5ace3fc86872b775b4709d04fd",
             "path": "resourcepacks/Pinku's+Pink+GUI+Pack+1.20+.zip"
-          }
-        },
-        {
-          "id": "QWER.zip",
-          "name": "QWER.zip",
-          "type": "File",
-          "artifact": {
-            "size": 7934609,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/resourcepacks/QWER.zip",
-            "MD5": "14dafe16ce98a1a10f164518171f881b",
-            "path": "resourcepacks/QWER.zip"
           }
         },
         {
@@ -1348,7 +1337,7 @@
           "type": "File",
           "artifact": {
             "size": 500696,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip",
             "MD5": "04c822b2da584e21745869190ac653e6",
             "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
           }
@@ -1359,7 +1348,7 @@
           "type": "File",
           "artifact": {
             "size": 141,
-            "url": "https://j4won.github.io/servers/Fabric-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt",
+            "url": "http://localhost:8080/servers/Fabric-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt",
             "MD5": "2861b27aa3e640dd37f55be452a7ab9e",
             "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
           }
