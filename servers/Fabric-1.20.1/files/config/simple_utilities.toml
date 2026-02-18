@@ -1,0 +1,16 @@
+[statusElements]
+toggleSimpleUtilitiesHUD = true
+toggleCoordinatesStatus = true
+toggleDirectionStatus = true
+toggleEquipmentStatus = true
+toggleFpsStatus = true
+toggleSprintStatus = true
+toggleBiomeStatus = true
+toggleGameTimeStatus = true
+toggleNetherCoordinateConversion = false
+togglePlayerSpeedStatus = false
+toggleLightLevelStatus = false
+togglePlayerName = false
+toggleServerName = false
+toggleServerAddress = false
+textColor = 14737632

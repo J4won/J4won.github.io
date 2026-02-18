@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/Jaewon/Documents/MC/ROOT/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Fabric (Minecraft 1.20.1)",
+    "description": "Fabric Running Minecraft 1.20.1 (Fabric v0.18.4)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "JW Launcher",
+      "largeImageText": "JW Launcher",
+      "largeImageKey": "background"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.18.4"
+  },
+  "untrackedFiles": []
+}
